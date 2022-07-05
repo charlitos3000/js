@@ -1,4 +1,4 @@
-//Carlos Sanchez
+//map and reduce functions for arrays
 
 //values
 const arr = [1, 2, 3, 4, 5];
